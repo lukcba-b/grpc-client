@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e10a3d20-13d6-4f61-92c4-bbf90f0575e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/grpc-client.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="e10a3d20-13d6-4f61-92c4-bbf90f0575e7" name="Default Changelist" comment="primeras configuraciones">
+      <change afterPath="$PROJECT_DIR$/proto/wishlist.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,21 +26,43 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JSON" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="primeras configuraciones" />
+    <option name="LAST_COMMIT_MESSAGE" value="primeras configuraciones" />
   </component>
   <component name="WindowStateProjectService">
     <state x="520" y="290" key="#Go_Modules" timestamp="1606628627504">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="520" y="290" key="#Go_Modules/0.0.1440.900/-936.-1080.1920.1080@0.0.1440.900" timestamp="1606628627504" />
+    <state x="425" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606630244167">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="425" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900/-936.-1080.1920.1080@0.0.1440.900" timestamp="1606630244167" />
+    <state x="297" y="25" key="CommitChangelistDialog2" timestamp="1606633960556">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="297" y="25" key="CommitChangelistDialog2/0.0.1440.900/-936.-1080.1920.1080@0.0.1440.900" timestamp="1606633960556" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1606633361068">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900/-936.-1080.1920.1080@0.0.1440.900" timestamp="1606633361068" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1606633314651">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-936.-1080.1920.1080@0.0.1440.900" timestamp="1606633314651" />
   </component>
 </project>
