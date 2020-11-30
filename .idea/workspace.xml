@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e10a3d20-13d6-4f61-92c4-bbf90f0575e7" name="Default Changelist" comment="primeras configuraciones">
-      <change afterPath="$PROJECT_DIR$/proto/wishlist.proto" afterDir="false" />
+    <list default="true" id="e10a3d20-13d6-4f61-92c4-bbf90f0575e7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
   </component>
   <component name="GOROOT" path="/usr/local/Cellar/go/1.12.7/libexec" />
   <component name="Git.Settings">
@@ -23,6 +27,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -52,10 +57,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="425" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900/-936.-1080.1920.1080@0.0.1440.900" timestamp="1606630244167" />
-    <state x="297" y="25" key="CommitChangelistDialog2" timestamp="1606633960556">
+    <state x="297" y="25" key="CommitChangelistDialog2" timestamp="1606634475718">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="297" y="25" key="CommitChangelistDialog2/0.0.1440.900/-936.-1080.1920.1080@0.0.1440.900" timestamp="1606633960556" />
+    <state x="297" y="25" key="CommitChangelistDialog2/0.0.1440.900/-936.-1080.1920.1080@0.0.1440.900" timestamp="1606634475718" />
     <state x="221" y="89" key="SettingsEditor" timestamp="1606633361068">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
